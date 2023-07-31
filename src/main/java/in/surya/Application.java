@@ -9,6 +9,7 @@ import in.surya.entity.BookEntity;
 public class Application {
 
 	public static void main(String[] args) {
+	int i=5;
 		SpringApplication.run(Application.class, args);
 		
 		
